@@ -1,4 +1,4 @@
-Esta es mi cuenta personal donde subo proyectos personales, trabajos de la universidad y repositorios de utilidad.
+Aqui subo proyectos personales, trabajos de la universidad y repositorios de utilidad.
 Durante estos años me he dedicado a estudiar por cuenta propia temas sobre desarrollo web tanto en el lado del usuario como en el servidor.
 Por otro lado en universidad veo lo que esta mas enfocado en las Ciencias de la Computación, como por ejemplo algoritmos, estructuras de datos, sistemas digitales, etc.
 
